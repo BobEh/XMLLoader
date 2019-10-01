@@ -1,475 +1,468 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-  <Language name="English">
-    <Character name="John">
-      <StrongestAttribute>archery</StrongestAttribute>
-      <Score>1234</Score>
-      <Health>100</Health>
-      <Lives>9</Lives>
-      <Items>
-        <Slot>sword</Slot>
-        <Slot>sheild</Slot>
-      </Items>
-      <Speed>fast</Speed>
-      <Armour>
-        <Head>none</Head>
-        <Body>steel body armour</Body>
-        <Legs>leather studed pants</Legs>
-        <Feet>none</Feet>
-        <Arms>steel sleeves</Arms>
-        <Hands>steel gloves</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>save the princess</MainQuest>
-        <SideQuests>
-          <Quest name="find chickens">
-            <Reward>3 eggs</Reward>
-          </Quest>
-          <Quest name="kill pests">
-            <Reward>200 gold</Reward>
-          </Quest>
-          <Quest name="cut grass">
-            <Reward>sword upgrade</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Donald">
-          <StrongestAttribute>magic</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Goofy">
-          <StrongestAttribute>defense</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>  
-    <Character name="Jane">
-      <StrongestAttribute>sword fighting</StrongestAttribute>
-      <Score>1235</Score>
-      <Health>115</Health>
-      <Lives>19</Lives>
-      <Items>
-        <Slot>bow</Slot>
-        <Slot>staff</Slot>
-      </Items>
-      <Speed>slow</Speed>
-      <Armour>
-        <Head>steel helmet</Head>
-        <Body>leather studed body armour</Body>
-        <Legs>steel pants</Legs>
-        <Feet>steel boots</Feet>
-        <Arms>leather studed sleeves</Arms>
-        <Hands>steel gloves</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>find the exit</MainQuest>
-        <SideQuests>
-          <Quest name="find food for friend">
-            <Reward>new shirt</Reward>
-          </Quest>
-          <Quest name="find lantern for friend">
-            <Reward>2000 gold</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Cat">
-          <StrongestAttribute>eyesight</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Dog">
-          <StrongestAttribute>sense of smell</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>  
-    <Character name="Joe">
-      <StrongestAttribute>stealth</StrongestAttribute>
-      <Score>12</Score>
-      <Health>20</Health>
-      <Lives>1</Lives>
-      <Items>
-        <Slot>none</Slot>
-        <Slot>none</Slot>
-      </Items>
-      <Speed>very fast</Speed>
-      <Armour>
-        <Head>black cloth hood</Head>
-        <Body>black cloth robe</Body>
-        <Legs>black cloth pants</Legs>
-        <Feet>steel boots</Feet>
-        <Arms>black cloth sleeves</Arms>
-        <Hands>bright yellow gloves (glow in the dark)</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>steal kings crown</MainQuest>
-        <SideQuests>
-          <Quest name="steal back family heirloom">
-            <Reward>5 gold</Reward>
-          </Quest>
-          <Quest name="find all secret switches">
-            <Reward>all you can eat pancakes at Denny's</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Frank">
-          <StrongestAttribute>being imaginary</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-  </Language>
-  
-  
-  <Language name="French">
-    <Character name="John">
-      <StrongestAttribute>tir à l'arc</StrongestAttribute>
-      <Score>1234</Score>
-      <Health>100</Health>
-      <Lives>9</Lives>
-      <Items>
-        <Slot>épée</Slot>
-        <Slot>bouclier</Slot>
-      </Items>
-      <Speed>vite</Speed>
-      <Armour>
-        <Head>aucun</Head>
-        <Body>armure de corps en acier</Body>
-        <Legs>pantalon à clous en cuir</Legs>
-        <Feet>aucun</Feet>
-        <Arms>manchons en acier</Arms>
-        <Hands>gants d'acier</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>sauver la princesse</MainQuest>
-        <SideQuests>
-          <Quest name="trouver des poulets">
-            <Reward>3 des œufs</Reward>
-          </Quest>
-          <Quest name="tuer les parasites">
-            <Reward>200 or</Reward>
-          </Quest>
-          <Quest name="herbe coupée">
-            <Reward>mise à niveau de l'épée</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Donald">
-          <StrongestAttribute>la magie</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Goofy">
-          <StrongestAttribute>la défense</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-    <Character name="Jane">
-      <StrongestAttribute>combat à l'épée</StrongestAttribute>
-      <Score>1235</Score>
-      <Health>115</Health>
-      <Lives>19</Lives>
-      <Items>
-        <Slot>arc</Slot>
-        <Slot>le bâton</Slot>
-      </Items>
-      <Speed>lente</Speed>
-      <Armour>
-        <Head>casque d'acier</Head>
-        <Body>gilet pare-balles en cuir</Body>
-        <Legs>pantalon en acier</Legs>
-        <Feet>bottes d'acier</Feet>
-        <Arms>manches cloutées en cuir</Arms>
-        <Hands>gants d'acier</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>trouver la sortie</MainQuest>
-        <SideQuests>
-          <Quest name="trouver de la nourriture pour un ami">
-            <Reward>Nouvelle chemise</Reward>
-          </Quest>
-          <Quest name="trouver une lanterne pour un ami">
-            <Reward>2000 or</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Chatte">
-          <StrongestAttribute>vue</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Chienne">
-          <StrongestAttribute>odorat</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-    <Character name="Joe">
-      <StrongestAttribute>furtif</StrongestAttribute>
-      <Score>12</Score>
-      <Health>20</Health>
-      <Lives>1</Lives>
-      <Items>
-        <Slot>aucun</Slot>
-        <Slot>aucun</Slot>
-      </Items>
-      <Speed>très vite</Speed>
-      <Armour>
-        <Head>capuche en tissu noir</Head>
-        <Body>robe en tissu noir</Body>
-        <Legs>pantalon en tissu noir</Legs>
-        <Feet>bottes d'acier</Feet>
-        <Arms>manches en tissu noir</Arms>
-        <Hands>Gants jaune vif (lueur dans le noir)</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>voler la couronne des rois</MainQuest>
-        <SideQuests>
-          <Quest name="récupérer l'héritage familial">
-            <Reward>5 or</Reward>
-          </Quest>
-          <Quest name="trouver tous les interrupteurs secrets">
-            <Reward>tout ce que vous pouvez manger des crêpes chez Denny's</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Frank">
-          <StrongestAttribute>être imaginaire</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-  </Language>
-  
-
-
-  <Language name="Spanish">
-    <Character name="John">
-      <StrongestAttribute>tiro al arco</StrongestAttribute>
-      <Score>1234</Score>
-      <Health>100</Health>
-      <Lives>9</Lives>
-      <Items>
-        <Slot>espada</Slot>
-        <Slot>proteger</Slot>
-      </Items>
-      <Speed>rápido</Speed>
-      <Armour>
-        <Head>ninguno</Head>
-        <Body>armadura de acero</Body>
-        <Legs>pantalones de cuero</Legs>
-        <Feet>ninguno</Feet>
-        <Arms>mangas de acero</Arms>
-        <Hands>guantes de acero</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>salva a la princesa</MainQuest>
-        <SideQuests>
-          <Quest name="encontrar pollos">
-            <Reward>3 huevos</Reward>
-          </Quest>
-          <Quest name="matar plagas">
-            <Reward>200 oro</Reward>
-          </Quest>
-          <Quest name="Cortar el césped">
-            <Reward>sword upgrade</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Donald">
-          <StrongestAttribute>magia</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Goofy">
-          <StrongestAttribute>defensa</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-    <Character name="Jane">
-      <StrongestAttribute>pelea de espadas</StrongestAttribute>
-      <Score>1235</Score>
-      <Health>115</Health>
-      <Lives>19</Lives>
-      <Items>
-        <Slot>arco</Slot>
-        <Slot>el bastón</Slot>
-      </Items>
-      <Speed>lenta</Speed>
-      <Armour>
-        <Head>casco de acero</Head>
-        <Body>chaleco antibalas de cuero</Body>
-        <Legs>pantalones de acero</Legs>
-        <Feet>botas de acero</Feet>
-        <Arms>mangas de cuero</Arms>
-        <Hands>guantes de acero</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>encuentra la salida</MainQuest>
-        <SideQuests>
-          <Quest name="encontrar comida para un amigo">
-            <Reward>nueva camisa</Reward>
-          </Quest>
-          <Quest name="encontrar linterna para amigo">
-            <Reward>2000 oro</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Gata">
-          <StrongestAttribute>vista</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Perra">
-          <StrongestAttribute>sentido del olfato</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-    <Character name="Joe">
-      <StrongestAttribute>sigilo</StrongestAttribute>
-      <Score>12</Score>
-      <Health>20</Health>
-      <Lives>1</Lives>
-      <Items>
-        <Slot>ninguno</Slot>
-        <Slot>ninguno</Slot>
-      </Items>
-      <Speed>muy rapido</Speed>
-      <Armour>
-        <Head>capucha de tela negra</Head>
-        <Body>bata de tela negra</Body>
-        <Legs>pantalones de tela negra</Legs>
-        <Feet>botas de acero</Feet>
-        <Arms>mangas de tela negra</Arms>
-        <Hands>guantes amarillos brillantes (brillan en la oscuridad)</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>robar la corona de reyes</MainQuest>
-        <SideQuests>
-          <Quest name="robar la herencia familiar">
-            <Reward>5 oro</Reward>
-          </Quest>
-          <Quest name="encontrar todos los interruptores secretos">
-            <Reward>todo lo que puedas comer panqueques en Denny's</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Frank">
-          <StrongestAttribute>ser imaginario</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-  </Language>
-  
-
-  
-  <Language name="Irish">
-    <Character name="John">
-      <StrongestAttribute>bua</StrongestAttribute>
-      <Score>1234</Score>
-      <Health>100</Health>
-      <Lives>9</Lives>
-      <Items>
-        <Slot>claíomh</Slot>
-        <Slot>sciath</Slot>
-      </Items>
-      <Speed>go tapa</Speed>
-      <Armour>
-        <Head>ceann ar bith</Head>
-        <Body>armúr coirp cruach</Body>
-        <Legs>pants leathair atá stiúrtha</Legs>
-        <Feet>ceann ar bith</Feet>
-        <Arms>sleeves cruach</Arms>
-        <Hands>lámhainní cruach</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>ach amháin an bhanphrionsa</MainQuest>
-        <SideQuests>
-          <Quest name="sicíní a aimsiú">
-            <Reward>3 uibheacha</Reward>
-          </Quest>
-          <Quest name="lotnaidí a mharú">
-            <Reward>200 óir</Reward>
-          </Quest>
-          <Quest name="féar gearrtha">
-            <Reward>uasghrádú claíomh</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Donald">
-          <StrongestAttribute>draíocht</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Goofy">
-          <StrongestAttribute>cosaint</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-    <Character name="Jane">
-      <StrongestAttribute>troid claíomh</StrongestAttribute>
-      <Score>1235</Score>
-      <Health>115</Health>
-      <Lives>19</Lives>
-      <Items>
-        <Slot>bogha</Slot>
-        <Slot>maide</Slot>
-      </Items>
-      <Speed>mall</Speed>
-      <Armour>
-        <Head>clogad cruach</Head>
-        <Body>armúr coirp leathair le stóir</Body>
-        <Legs>pants cruach</Legs>
-        <Feet>buataisí cruach</Feet>
-        <Arms>sleeves leathair stóirithe</Arms>
-        <Hands>lámhainní cruach</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>aimsigh an bealach amach</MainQuest>
-        <SideQuests>
-          <Quest name="bia a aimsiú do chara">
-            <Reward>léine nua</Reward>
-          </Quest>
-          <Quest name="aimsigh lantern do chara">
-            <Reward>2000 óir</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Cat">
-          <StrongestAttribute>radharc na súl</StrongestAttribute>
-        </Sidekick>
-        <Sidekick name="Madra">
-          <StrongestAttribute>boladh</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-    <Character name="Joe">
-      <StrongestAttribute>stealth</StrongestAttribute>
-      <Score>12</Score>
-      <Health>20</Health>
-      <Lives>1</Lives>
-      <Items>
-        <Slot>ceann ar bith</Slot>
-        <Slot>ceann ar bith</Slot>
-      </Items>
-      <Speed>an-tapa</Speed>
-      <Armour>
-        <Head>cochall éadach dubh</Head>
-        <Body>gúna éadach dubh</Body>
-        <Legs>pants éadach dubh</Legs>
-        <Feet>buataisí cruach</Feet>
-        <Arms>sleeves éadach dubh</Arms>
-        <Hands>lámhainní buí buí (luisne sa dorchadas)</Hands>
-      </Armour>
-      <Quests>
-        <MainQuest>coróin ríthe a ghoid</MainQuest>
-        <SideQuests>
-          <Quest name="steir ar ais oidhreacht teaghlaigh">
-            <Reward>5 óir</Reward>
-          </Quest>
-          <Quest name="aimsigh na lasca rúnda uile">
-            <Reward>is féidir leat pancóga a ithe ag Denny's</Reward>
-          </Quest>
-        </SideQuests>
-      </Quests>
-      <Sidekicks>
-        <Sidekick name="Frank">
-          <StrongestAttribute>bheith samhailteach</StrongestAttribute>
-        </Sidekick>
-      </Sidekicks>
-    </Character>
-  </Language>
+<?xml version='1.0' encoding='utf-8'?><GameData>
+	<CurrentLanguage>English</CurrentLanguage>
+	<Language name="English">
+		<Character name="John">
+			<StrongestAttribute>archery</StrongestAttribute>
+			<Score>1234</Score>
+			<Health>100</Health>
+			<Lives>9</Lives>
+			<Items>
+				<Slot>sword</Slot>
+				<Slot>sheild</Slot>
+			</Items>
+			<Speed>fast</Speed>
+			<Armour>
+				<Head>none</Head>
+				<Body>steel body armour</Body>
+				<Legs>leather studed pants</Legs>
+				<Feet>none</Feet>
+				<Arms>steel sleeves</Arms>
+				<Hands>steel gloves</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>save the princess</MainQuest>
+				<SideQuests>
+					<Quest name="find chickens">
+						<Reward>3 eggs</Reward>
+					</Quest>
+					<Quest name="kill pests">
+						<Reward>200 gold</Reward>
+					</Quest>
+					<Quest name="cut grass">
+						<Reward>sword upgrade</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Donald">
+					<StrongestAttribute>magic</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Goofy">
+					<StrongestAttribute>defense</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Jane">
+			<StrongestAttribute>sword fighting</StrongestAttribute>
+			<Score>1235</Score>
+			<Health>115</Health>
+			<Lives>19</Lives>
+			<Items>
+				<Slot>bow</Slot>
+				<Slot>staff</Slot>
+			</Items>
+			<Speed>slow</Speed>
+			<Armour>
+				<Head>steel helmet</Head>
+				<Body>leather studed body armour</Body>
+				<Legs>steel pants</Legs>
+				<Feet>steel boots</Feet>
+				<Arms>leather studed sleeves</Arms>
+				<Hands>steel gloves</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>find the exit</MainQuest>
+				<SideQuests>
+					<Quest name="find food for friend">
+						<Reward>new shirt</Reward>
+					</Quest>
+					<Quest name="find lantern for friend">
+						<Reward>2000 gold</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Cat">
+					<StrongestAttribute>eyesight</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Dog">
+					<StrongestAttribute>sense of smell</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Joe">
+			<StrongestAttribute>stealth</StrongestAttribute>
+			<Score>12</Score>
+			<Health>20</Health>
+			<Lives>1</Lives>
+			<Items>
+				<Slot>none</Slot>
+				<Slot>none</Slot>
+			</Items>
+			<Speed>very fast</Speed>
+			<Armour>
+				<Head>black cloth hood</Head>
+				<Body>black cloth robe</Body>
+				<Legs>black cloth pants</Legs>
+				<Feet>steel boots</Feet>
+				<Arms>black cloth sleeves</Arms>
+				<Hands>bright yellow gloves (glow in the dark)</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>steal kings crown</MainQuest>
+				<SideQuests>
+					<Quest name="steal back family heirloom">
+						<Reward>5 gold</Reward>
+					</Quest>
+					<Quest name="find all secret switches">
+						<Reward>all you can eat pancakes at Denny&apos;s</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Frank">
+					<StrongestAttribute>being imaginary</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+	</Language>
+	<Language name="French">
+		<Character name="John">
+			<StrongestAttribute>tir à l&apos;arc</StrongestAttribute>
+			<Score>1234</Score>
+			<Health>100</Health>
+			<Lives>9</Lives>
+			<Items>
+				<Slot>épée</Slot>
+				<Slot>bouclier</Slot>
+			</Items>
+			<Speed>vite</Speed>
+			<Armour>
+				<Head>aucun</Head>
+				<Body>armure de corps en acier</Body>
+				<Legs>pantalon à clous en cuir</Legs>
+				<Feet>aucun</Feet>
+				<Arms>manchons en acier</Arms>
+				<Hands>gants d&apos;acier</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>sauver la princesse</MainQuest>
+				<SideQuests>
+					<Quest name="trouver des poulets">
+						<Reward>3 des œufs</Reward>
+					</Quest>
+					<Quest name="tuer les parasites">
+						<Reward>200 or</Reward>
+					</Quest>
+					<Quest name="herbe coupée">
+						<Reward>mise à niveau de l&apos;épée</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Donald">
+					<StrongestAttribute>la magie</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Goofy">
+					<StrongestAttribute>la défense</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Jane">
+			<StrongestAttribute>combat à l&apos;épée</StrongestAttribute>
+			<Score>1235</Score>
+			<Health>115</Health>
+			<Lives>19</Lives>
+			<Items>
+				<Slot>arc</Slot>
+				<Slot>le bâton</Slot>
+			</Items>
+			<Speed>lente</Speed>
+			<Armour>
+				<Head>casque d&apos;acier</Head>
+				<Body>gilet pare-balles en cuir</Body>
+				<Legs>pantalon en acier</Legs>
+				<Feet>bottes d&apos;acier</Feet>
+				<Arms>manches cloutées en cuir</Arms>
+				<Hands>gants d&apos;acier</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>trouver la sortie</MainQuest>
+				<SideQuests>
+					<Quest name="trouver de la nourriture pour un ami">
+						<Reward>Nouvelle chemise</Reward>
+					</Quest>
+					<Quest name="trouver une lanterne pour un ami">
+						<Reward>2000 or</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Chatte">
+					<StrongestAttribute>vue</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Chienne">
+					<StrongestAttribute>odorat</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Joe">
+			<StrongestAttribute>furtif</StrongestAttribute>
+			<Score>12</Score>
+			<Health>20</Health>
+			<Lives>1</Lives>
+			<Items>
+				<Slot>aucun</Slot>
+				<Slot>aucun</Slot>
+			</Items>
+			<Speed>très vite</Speed>
+			<Armour>
+				<Head>capuche en tissu noir</Head>
+				<Body>robe en tissu noir</Body>
+				<Legs>pantalon en tissu noir</Legs>
+				<Feet>bottes d&apos;acier</Feet>
+				<Arms>manches en tissu noir</Arms>
+				<Hands>Gants jaune vif (lueur dans le noir)</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>voler la couronne des rois</MainQuest>
+				<SideQuests>
+					<Quest name="récupérer l'héritage familial">
+						<Reward>5 or</Reward>
+					</Quest>
+					<Quest name="trouver tous les interrupteurs secrets">
+						<Reward>tout ce que vous pouvez manger des crêpes chez Denny&apos;s</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Frank">
+					<StrongestAttribute>être imaginaire</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+	</Language>
+	<Language name="Spanish">
+		<Character name="John">
+			<StrongestAttribute>tiro al arco</StrongestAttribute>
+			<Score>1234</Score>
+			<Health>100</Health>
+			<Lives>9</Lives>
+			<Items>
+				<Slot>espada</Slot>
+				<Slot>proteger</Slot>
+			</Items>
+			<Speed>rápido</Speed>
+			<Armour>
+				<Head>ninguno</Head>
+				<Body>armadura de acero</Body>
+				<Legs>pantalones de cuero</Legs>
+				<Feet>ninguno</Feet>
+				<Arms>mangas de acero</Arms>
+				<Hands>guantes de acero</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>salva a la princesa</MainQuest>
+				<SideQuests>
+					<Quest name="encontrar pollos">
+						<Reward>3 huevos</Reward>
+					</Quest>
+					<Quest name="matar plagas">
+						<Reward>200 oro</Reward>
+					</Quest>
+					<Quest name="Cortar el césped">
+						<Reward>sword upgrade</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Donald">
+					<StrongestAttribute>magia</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Goofy">
+					<StrongestAttribute>defensa</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Jane">
+			<StrongestAttribute>pelea de espadas</StrongestAttribute>
+			<Score>1235</Score>
+			<Health>115</Health>
+			<Lives>19</Lives>
+			<Items>
+				<Slot>arco</Slot>
+				<Slot>el bastón</Slot>
+			</Items>
+			<Speed>lenta</Speed>
+			<Armour>
+				<Head>casco de acero</Head>
+				<Body>chaleco antibalas de cuero</Body>
+				<Legs>pantalones de acero</Legs>
+				<Feet>botas de acero</Feet>
+				<Arms>mangas de cuero</Arms>
+				<Hands>guantes de acero</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>encuentra la salida</MainQuest>
+				<SideQuests>
+					<Quest name="encontrar comida para un amigo">
+						<Reward>nueva camisa</Reward>
+					</Quest>
+					<Quest name="encontrar linterna para amigo">
+						<Reward>2000 oro</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Gata">
+					<StrongestAttribute>vista</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Perra">
+					<StrongestAttribute>sentido del olfato</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Joe">
+			<StrongestAttribute>sigilo</StrongestAttribute>
+			<Score>12</Score>
+			<Health>20</Health>
+			<Lives>1</Lives>
+			<Items>
+				<Slot>ninguno</Slot>
+				<Slot>ninguno</Slot>
+			</Items>
+			<Speed>muy rapido</Speed>
+			<Armour>
+				<Head>capucha de tela negra</Head>
+				<Body>bata de tela negra</Body>
+				<Legs>pantalones de tela negra</Legs>
+				<Feet>botas de acero</Feet>
+				<Arms>mangas de tela negra</Arms>
+				<Hands>guantes amarillos brillantes (brillan en la oscuridad)</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>robar la corona de reyes</MainQuest>
+				<SideQuests>
+					<Quest name="robar la herencia familiar">
+						<Reward>5 oro</Reward>
+					</Quest>
+					<Quest name="encontrar todos los interruptores secretos">
+						<Reward>todo lo que puedas comer panqueques en Denny&apos;s</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Frank">
+					<StrongestAttribute>ser imaginario</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+	</Language>
+	<Language name="Irish">
+		<Character name="John">
+			<StrongestAttribute>bua</StrongestAttribute>
+			<Score>1234</Score>
+			<Health>100</Health>
+			<Lives>9</Lives>
+			<Items>
+				<Slot>claíomh</Slot>
+				<Slot>sciath</Slot>
+			</Items>
+			<Speed>go tapa</Speed>
+			<Armour>
+				<Head>ceann ar bith</Head>
+				<Body>armúr coirp cruach</Body>
+				<Legs>pants leathair atá stiúrtha</Legs>
+				<Feet>ceann ar bith</Feet>
+				<Arms>sleeves cruach</Arms>
+				<Hands>lámhainní cruach</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>ach amháin an bhanphrionsa</MainQuest>
+				<SideQuests>
+					<Quest name="sicíní a aimsiú">
+						<Reward>3 uibheacha</Reward>
+					</Quest>
+					<Quest name="lotnaidí a mharú">
+						<Reward>200 óir</Reward>
+					</Quest>
+					<Quest name="féar gearrtha">
+						<Reward>uasghrádú claíomh</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Donald">
+					<StrongestAttribute>draíocht</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Goofy">
+					<StrongestAttribute>cosaint</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Jane">
+			<StrongestAttribute>troid claíomh</StrongestAttribute>
+			<Score>1235</Score>
+			<Health>115</Health>
+			<Lives>19</Lives>
+			<Items>
+				<Slot>bogha</Slot>
+				<Slot>maide</Slot>
+			</Items>
+			<Speed>mall</Speed>
+			<Armour>
+				<Head>clogad cruach</Head>
+				<Body>armúr coirp leathair le stóir</Body>
+				<Legs>pants cruach</Legs>
+				<Feet>buataisí cruach</Feet>
+				<Arms>sleeves leathair stóirithe</Arms>
+				<Hands>lámhainní cruach</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>aimsigh an bealach amach</MainQuest>
+				<SideQuests>
+					<Quest name="bia a aimsiú do chara">
+						<Reward>léine nua</Reward>
+					</Quest>
+					<Quest name="aimsigh lantern do chara">
+						<Reward>2000 óir</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Cat">
+					<StrongestAttribute>radharc na súl</StrongestAttribute>
+				</Sidekick>
+				<Sidekick name="Madra">
+					<StrongestAttribute>boladh</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+		<Character name="Joe">
+			<StrongestAttribute>stealth</StrongestAttribute>
+			<Score>12</Score>
+			<Health>20</Health>
+			<Lives>1</Lives>
+			<Items>
+				<Slot>ceann ar bith</Slot>
+				<Slot>ceann ar bith</Slot>
+			</Items>
+			<Speed>an-tapa</Speed>
+			<Armour>
+				<Head>cochall éadach dubh</Head>
+				<Body>gúna éadach dubh</Body>
+				<Legs>pants éadach dubh</Legs>
+				<Feet>buataisí cruach</Feet>
+				<Arms>sleeves éadach dubh</Arms>
+				<Hands>lámhainní buí buí (luisne sa dorchadas)</Hands>
+			</Armour>
+			<Quests>
+				<MainQuest>coróin ríthe a ghoid</MainQuest>
+				<SideQuests>
+					<Quest name="steir ar ais oidhreacht teaghlaigh">
+						<Reward>5 óir</Reward>
+					</Quest>
+					<Quest name="aimsigh na lasca rúnda uile">
+						<Reward>is féidir leat pancóga a ithe ag Denny&apos;s</Reward>
+					</Quest>
+				</SideQuests>
+			</Quests>
+			<Sidekicks>
+				<Sidekick name="Frank">
+					<StrongestAttribute>bheith samhailteach</StrongestAttribute>
+				</Sidekick>
+			</Sidekicks>
+		</Character>
+	</Language>
 </GameData>
+
